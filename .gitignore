@@ -1,3 +1,4 @@
 substitute-in-docs.py
 templates*.csv
 .venv
+.DS_Store
