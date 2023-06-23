@@ -1,0 +1,3 @@
+substitute-in-docs.py
+templates*.csv
+.venv
